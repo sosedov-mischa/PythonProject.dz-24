@@ -203,7 +203,7 @@ but15 = KeyboardButton(text="/меню_папа")
 but17 = KeyboardButton(text="/меню_брат")
 but16 = KeyboardButton(text="/меню_сестра")
 but18 = KeyboardButton(text="/меню_друг")
-but19 = KeyboardButton(text="/меню_подруга")
+but19 = KeyboardButton(text="/меню_подруууууууга")
 
 
 
