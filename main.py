@@ -60,7 +60,7 @@ async def process_start_command_3(message: Message):
 
 @dp.message(Command(commands=["50-100р"]))                                       #1
 async def process_start_command_4(message: Message):
-    await message.answer("1) Подставка для смартфона - 78 рубей.")
+    await message.answer("1) Подставка для смартфона - 78 руб.")
     await message.answer("2) Антистресс 'лапка' - 83 руб.")
     await message.answer("3) Сладкий подарок - 87 руб.")
     await message.answer(text="↓ клавиатура 3 ↓", reply_markup=keyword3)
